@@ -1,5 +1,3 @@
-package calculador.descarga;
-
 import java.util.Scanner;
 
 
